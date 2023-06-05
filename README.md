@@ -11,7 +11,7 @@ This repo is the PyTorch implementation of our paper in TPAMI-2022 to read ToF r
 
 ---
 
-![figure](imgs/CV-ToFResNet.pdf)
+![figure](imgs/CV-ToFResNet.png)
 
 ---
 
