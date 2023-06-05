@@ -1,6 +1,8 @@
 # Depth Restoration in Under-Display Time-of-Flight Imaging
 ⚡| [Paper](https://ieeexplore.ieee.org/abstract/document/9903562/) |
 
+This repo is the PyTorch implementation of our paper to appear in ICRA2021 on "Towards Precise and Efficient Image Guided Depth Completion", developed by Mu Hu, Shuling Wang, Bin Li, Shiyu Ning, Li Fan, and Xiaojin Gong at Zhejiang University and Huawei Shanghai.
+
 ## Introduction
 - (2022-5-24): We provide 
 - (2022-3-27): We released 
@@ -23,10 +25,12 @@ If you use this data for your research, please cite our paper [Depth Restoration
 
 ```
 @article{qiao2022depth,
-  title={Depth Restoration in Under-Display Time-of-Flight Imaging},
   author={Qiao, Xin and Ge, Chenyang and Deng, Pengchao and Wei, Hao and Poggi, Matteo and Mattoccia, Stefano},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  year={2022},
-  publisher={IEEE}
-}
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Depth Restoration in Under-Display Time-of-Flight Imaging}, 
+  year={2023},
+  volume={45},
+  number={5},
+  pages={5668-5683},
+  doi={10.1109/TPAMI.2022.3209905}}
 ```
