@@ -1,13 +1,10 @@
 # Depth Restoration in Under-Display Time-of-Flight Imaging
+
+
+## Introduction
 ⚡| [Paper](https://ieeexplore.ieee.org/abstract/document/9903562/) |
 
 This repo is the PyTorch implementation of our paper in TPAMI-2022 to read ToF raw measurements and recover depth from them, developed by Xin Qiao, Chenyang Ge, Pengchao Deng, Hao Wei, Matteo Poggi and Stefano Mattoccia.
-
-## Introduction
-- (2022-5-24): We provide 
-- (2022-3-27): We released 
-- (2021-12-25): We released 
-- (2021-09-01): We have released the dataset, please visit [homepage]() to get the dataset. (Note that we removed some low-quality images from the original dataset, and for this version there are 30976 images.)
 
 ---
 
@@ -18,7 +15,7 @@ This repo is the PyTorch implementation of our paper in TPAMI-2022 to read ToF r
 
 ## Download
 - baidu:  https://pan.baidu.com/s/1zOLamXNcBvwnGQXRwMl2AQ (synthetic)      提取码：y12j
-- google: https://drive.google.com/drive/folders/1QDjPTZqPRskDJrKfkhrLju-ZmHRPAnXo?usp=drive_link (capture)
+- google: https://drive.google.com/drive/folders/1QDjPTZqPRskDJrKfkhrLju-ZmHRPAnXo?usp=drive_link (real)
 
 ## Citation
 If you use this data for your research, please cite our paper [Depth Restoration in Under-Display Time-of-Flight Imaging](https://ieeexplore.ieee.org/abstract/document/9903562/):
