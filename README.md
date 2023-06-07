@@ -17,8 +17,8 @@ This repo is the PyTorch implementation of our paper in TPAMI-2022 to read ToF r
 
 
 ## Download
-- baidu:
-- google:
+- baidu:  https://pan.baidu.com/s/1zOLamXNcBvwnGQXRwMl2AQ (synthetic)      提取码：y12j
+- google: https://drive.google.com/drive/folders/1QDjPTZqPRskDJrKfkhrLju-ZmHRPAnXo?usp=drive_link (capture)
 
 ## Citation
 If you use this data for your research, please cite our paper [Depth Restoration in Under-Display Time-of-Flight Imaging](https://ieeexplore.ieee.org/abstract/document/9903562/):
