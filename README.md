@@ -14,7 +14,7 @@ This repo is the PyTorch implementation of our paper in TPAMI-2022 to read ToF r
 
 
 ## Download
-- baidu:  https://pan.baidu.com/s/1zOLamXNcBvwnGQXRwMl2AQ (synthetic)      提取码：y12j
+- baidu:  https://pan.baidu.com/s/15oUIYyLr6Wmh09XmrAM3JA (synthetic)      Access code：we0d
 - google: https://drive.google.com/drive/folders/1QDjPTZqPRskDJrKfkhrLju-ZmHRPAnXo?usp=drive_link (real)
 
 ## Citation
